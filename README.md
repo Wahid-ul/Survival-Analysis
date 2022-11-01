@@ -2,7 +2,10 @@ Survival analysis is a set of statistical approaches used to find out the time i
 
 Survival analysis is used to study the time until some event of interest (often referred to as death) occurs. 
 
-Time could be measured in years, months, weeks, days, etc. In cancer studies, most of the survival analyses use the following methods. 
+Time could be measured in years, months, weeks, days, etc. In cancer studies, 
+
+
+**Most of the survival analyses use the following methods.** 
 
   (1) Kaplan-Meier plots to visualize survival curves. 
   
